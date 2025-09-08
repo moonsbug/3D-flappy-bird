@@ -27,8 +27,8 @@ Fly a bird around a circular track of pipes, jump through gaps, and try not to c
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/flappy-ring-vr.git
-cd flappy-ring-vr
+git clone https://github.com/yourusername/3D-flappy-bird.git
+cd 3D-flappy-bird
 
 ```
 2. Run Locally
